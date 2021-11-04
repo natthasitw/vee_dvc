@@ -1,0 +1,5 @@
+outs:
+- md5: b81f1f0984ef6e8a265635ee0d25f1ac.dir
+  size: 285408
+  nfiles: 100
+  path: HWK_SITE
