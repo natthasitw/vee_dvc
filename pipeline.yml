@@ -1,0 +1,11 @@
+preprocessing
+  - resize
+  - normalize
+  - batching
+training
+  - yolov5
+    - lr : 1.0E-3
+    - alpha : 0.8
+    - beta : 0.2
+save_model
+  - write_gcs
