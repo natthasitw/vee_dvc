@@ -1,0 +1,4 @@
+[core]
+    remote = arv-gcs
+['remote "arv-gcs"']
+    url = gs://vee_test
