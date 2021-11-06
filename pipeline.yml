@@ -5,9 +5,9 @@ preprocessing
 training
   - yolov5
     - lr : 1.0E-4
-    - alpha : 0.1
+    - alpha : 0.2
     - beta : 0.4
 save_model
   - write_gcs
 
-exp : exp1
+exp : exp1.2
